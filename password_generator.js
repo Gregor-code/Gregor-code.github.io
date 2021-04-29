@@ -21,7 +21,6 @@ function generate_password() {
         let random_sign = password_signs[Math.floor(Math.random() * 64)];
         final_password += random_sign;
     }
-    console.log(final_password);
     output_field.innerText = final_password;
     final_password = "";
 }
