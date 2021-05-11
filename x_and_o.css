@@ -1,0 +1,178 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Poppins, sans-serif;
+    font-weight: bold;
+}
+
+body{
+    background: url("sea-5495381_1920 (1).jpg")
+}
+
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2%;
+    margin-bottom: 0.5%;
+}
+
+.playfield{
+    height: 600px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.play_cell_1{
+    border: 5px solid black;
+    border-top: none;
+    border-right: none;
+    display: block;
+    height: 190px;
+    width: 190px;
+    margin: 0;
+    float: right;
+    justify-content: right;
+    text-align: right;
+}
+
+.play_cell_2{
+    border: 5px solid black;
+    border-top: none;
+    display: block;
+    align-items: right;
+    height: 190px;
+    width: 190px;
+    margin: 0;
+    float: right;
+    justify-content: right;
+    text-align: right;
+}
+
+.play_cell_3{
+    border: 5px solid black;
+    border-left: none;
+    border-top: none;
+    align-items: right;
+    height: 190px;
+    width: 190px;
+    margin: 0;
+    float: right;
+    justify-content: right;
+    text-align: right;
+}
+
+.play_cell_4{
+    border: 5px solid black;
+    border-right: none;
+    height: 190px;
+    width: 190px;
+    margin: 0;
+    float: right;
+    justify-content: right;
+    text-align: right;
+}
+
+.play_cell_5{
+    border: 5px solid black;
+    align-items: right;
+    height: 190px;
+    width: 190px;
+    margin: 0;
+    float: right;
+    justify-content: right;
+    text-align: right;
+}
+
+.play_cell_6{
+    border: 5px solid black;
+    border-left: none;
+    align-items: right;
+    height: 190px;
+    width: 190px;
+    margin: 0;
+    float: right;
+    justify-content: right;
+    text-align: right;
+}
+
+.play_cell_7{
+    border: 5px solid black;
+    border-right: none;
+    border-bottom: none;
+    height: 190px;
+    width: 190px;
+    margin: 0;
+    float: right;
+    justify-content: right;
+    text-align: right;
+}
+
+.play_cell_8{
+    border: 5px solid black;
+    border-bottom: none;
+    align-items: right;
+    height: 190px;
+    width: 190px;
+    margin: 0;
+    float: right;
+    justify-content: right;
+    text-align: right;
+}
+
+.play_cell_9{
+    border: 5px solid black;
+    border-left: none;
+    border-bottom: none;
+    align-items: right;
+    height: 190px;
+    width: 190px;
+    margin: 0;
+    float: right;
+    justify-content: right;
+    text-align: right;
+}
+
+.cross{
+    font-size: 800%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.circle{
+    font-size: 800%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.clear_btn{
+    cursor: pointer;
+    background: #2bf8ff;
+    color: black;
+    border: none;
+    outline: none;
+    width: 14rem;
+    height: 2rem;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 120%;
+}
+
+.clear_btn:active{
+    background-color: #14d5db;
+    transform: translateY(3px);
+}
+
+.hold_Clear_btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 3%;
+}
+
+
+
+
