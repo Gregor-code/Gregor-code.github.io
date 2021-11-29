@@ -1,0 +1,28 @@
+Hi, I'm Gregor 👋
+
+My Skills 👨‍💻
+
+🦺 Projects
+
+A simple calculator that can multiply, divide, subtract and add.
+
+A simple and fun game, I made with 15
+
+An application to manage your tasks. This was my first project, I made with JavaScript
+
+A random password generator. It generates passwords with up to 20 characters! To surf safer through the Internet I strongly recommend to create long and secure passwords!
+
+Fun facts about me
+
+Hi, I'm Gregor, a 17 year old student from Germany. My passion is to program and to create
+            solutions for all kinds of problems.
+            I'm speaking German 🇩🇪 and Russian 🇷🇺 fluently and can easily communicate in English 🇬🇧.
+            My goal for the future is to learn C# ASP.Net and start working with Unitys Game Engine 🎮.
+
+My cactus is called Vassily. He stood on my window board already for three years. ⌚
+
+I ❤️ GreenDay! My favourite album is 21st Century Breakdown.
+
+Contact me✍️
+
+Thanks a lot for the icons:
